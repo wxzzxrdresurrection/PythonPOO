@@ -1,0 +1,146 @@
+[
+   {
+      "Folio": 1,
+      "Cliente": {
+         "RFC": "ZAZL030815RJ2",
+         "Nombre": "Luis Zapata",
+         "Telefono": "8713530073"
+      },
+      "Detalle productos": [
+         {
+            "Codigo": 1,
+            "Nombre": "Coca Cola",
+            "Descripcion": "Bebida gaseosa",
+            "Precio": 12.5
+         },
+         {
+            "Codigo": 2,
+            "Nombre": "Agua",
+            "Descripcion": "Bebida",
+            "Precio": 10
+         }
+      ],
+      "Fecha": "2022-01-01",
+      "Total": 200
+   },
+   {
+      "Folio": "190",
+      "Cliente": {
+         "RFC": "ZAZL030815RJ2",
+         "Nombre": "Luis Zapata",
+         "Telefono": "8713530073"
+      },
+      "Detalle productos": [
+         {
+            "Codigo": "UTT1",
+            "Nombre": "Coca Cola",
+            "Descripcion": "Bebida gaseosa",
+            "Precio": 12.0
+         }
+      ],
+      "Fecha": "12/10/22",
+      "Total": "120"
+   },
+   {
+      "Folio": "120",
+      "Cliente": {
+         "RFC": "ZAZL030815RJ2",
+         "Nombre": "Luis Zapata",
+         "Telefono": "8713530073"
+      },
+      "Detalle productos": [
+         {
+            "Codigo": "UTT1",
+            "Nombre": "Coca Cola",
+            "Descripcion": "Bebida gaseosa",
+            "Precio": 12.0
+         },
+         {
+            "Codigo": "UTT2",
+            "Nombre": "Sabritas",
+            "Descripcion": "Papas fritas",
+            "Precio": 22.0
+         }
+      ],
+      "Fecha": "12-10-22",
+      "Total": "120"
+   },
+   {
+      "Folio": "240",
+      "Cliente": {
+         "RFC": "ZAZL030815RJ2",
+         "Nombre": "Luis Zapata",
+         "Telefono": "8713530073"
+      },
+      "Detalle productos": [
+         {
+            "Codigo": "UTT1",
+            "Nombre": "Coca Cola",
+            "Descripcion": "Bebida gaseosa",
+            "Precio": 12.0
+         },
+         {
+            "Codigo": "UTT2",
+            "Nombre": "Sabritas",
+            "Descripcion": "Papas fritas",
+            "Precio": 22.0
+         }
+      ],
+      "Fecha": "12-10-22",
+      "Total": "120"
+   },
+   {
+      "Folio": "40",
+      "Cliente": {
+         "RFC": "RECJ030607HJ3",
+         "Nombre": "Javier Resendiz",
+         "Telefono": "8711228330"
+      },
+      "Detalle productos": [
+         {
+            "Codigo": "UTT3",
+            "Nombre": "Pepsi",
+            "Descripcion": "Bebida gaseosa",
+            "Precio": 11.0
+         }
+      ],
+      "Fecha": "2023-02-06",
+      "Total": "11"
+   },
+   {
+      "Folio": "1000",
+      "Cliente": {
+         "RFC": "RECJ030607HJ3",
+         "Nombre": "Javier Resendiz",
+         "Telefono": "8711228330"
+      },
+      "Detalle productos": [
+         {
+            "Codigo": "UTT2",
+            "Nombre": "Sabritas",
+            "Descripcion": "Papas fritas",
+            "Precio": 22.0
+         }
+      ],
+      "Fecha": "2023",
+      "Total": "22"
+   },
+   {
+      "Folio": "2000",
+      "Cliente": {
+         "RFC": "RECJ030607HJ3",
+         "Nombre": "Javier Resendiz",
+         "Telefono": "8711228330"
+      },
+      "Detalle productos": [
+         {
+            "Codigo": "UTT4",
+            "Nombre": "Burritos",
+            "Descripcion": "Comida",
+            "Precio": 14.0
+         }
+      ],
+      "Fecha": "2023-01-02",
+      "Total": "14"
+   }
+]

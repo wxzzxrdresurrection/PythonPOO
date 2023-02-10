@@ -1,0 +1,152 @@
+[
+   {
+      "Codigo": "UTT1",
+      "Nombre": "Coca Cola",
+      "Descripcion": "Bebida gaseosa",
+      "Precio": 12.0
+   },
+   {
+      "Codigo": "UTT2",
+      "Nombre": "Sabritas",
+      "Descripcion": "Papas fritas",
+      "Precio": 22.0
+   },
+   {
+      "Codigo": "UTT3",
+      "Nombre": "Pepsi",
+      "Descripcion": "Bebida gaseosa",
+      "Precio": 11.0
+   },
+   {
+      "Codigo": "UTT4",
+      "Nombre": "Burritos",
+      "Descripcion": "Comida",
+      "Precio": 14.0
+   },
+   {
+      "Codigo": "UTT5",
+      "Nombre": "Sandwich",
+      "Descripcion": "Variado",
+      "Precio": 18.0
+   },
+   {
+      "Codigo": "UTT6 ",
+      "Nombre": "Pablo",
+      "Descripcion": "pablo",
+      "Precio": 100000.0
+   },
+   {
+      "Codigo": "UTT7",
+      "Nombre": "Mollete",
+      "Descripcion": "Mollete",
+      "Precio": 20.0
+   },
+   {
+      "Codigo": "UTT8",
+      "Nombre": "Jugo",
+      "Descripcion": "Variado",
+      "Precio": 18.0
+   },
+   {
+      "Codigo": "UTT9",
+      "Nombre": "Agua",
+      "Descripcion": "si",
+      "Precio": 12.0
+   },
+   {
+      "Codigo": "UTT10",
+      "Nombre": "Arizona",
+      "Descripcion": "Variado",
+      "Precio": 20.0
+   },
+   {
+      "Codigo": "UTT11",
+      "Nombre": "Quesadillas",
+      "Descripcion": "Guiso",
+      "Precio": 12.0
+   },
+   {
+      "Codigo": "UTT12",
+      "Nombre": "Guisos",
+      "Descripcion": "Diferentes",
+      "Precio": 32.0
+   },
+   {
+      "Codigo": "UTT13",
+      "Nombre": "Cocona",
+      "Descripcion": "Chesco",
+      "Precio": 19.0
+   },
+   {
+      "Codigo": "UTT14",
+      "Nombre": "PepsiCola",
+      "Descripcion": "17",
+      "Precio": 17.0
+   },
+   {
+      "Codigo": "UTT15",
+      "Nombre": "Fanta",
+      "Descripcion": "Fresa",
+      "Precio": 18.0
+   },
+   {
+      "Codigo": "UTT16",
+      "Nombre": "Snack",
+      "Descripcion": "Cualquiera",
+      "Precio": 14.0
+   },
+   {
+      "Codigo": "UTT17",
+      "Nombre": "Chocolate",
+      "Descripcion": "Muchos",
+      "Precio": 15.0
+   },
+   {
+      "Codigo": "UTT18",
+      "Nombre": "Generico",
+      "Descripcion": "Cualquier",
+      "Precio": 18.0
+   },
+   {
+      "Codigo": "UTT17",
+      "Nombre": "Chocolate",
+      "Descripcion": "Muchos",
+      "Precio": 15.0
+   },
+   {
+      "Codigo": "UTT19",
+      "Nombre": "Nprod",
+      "Descripcion": "sd",
+      "Precio": 0.0
+   },
+   {
+      "Codigo": "UTT20",
+      "Nombre": "Nprod2",
+      "Descripcion": "sd2",
+      "Precio": 1.0
+   },
+   {
+      "Codigo": "UTT21",
+      "Nombre": "ProductoNuevp",
+      "Descripcion": "PRODN",
+      "Precio": 30.0
+   },
+   {
+      "Codigo": "UTT22",
+      "Nombre": "ProductoGenerico",
+      "Descripcion": "General",
+      "Precio": 10.0
+   },
+   {
+      "Codigo": "UTT30",
+      "Nombre": "ProductoX",
+      "Descripcion": "Xprod",
+      "Precio": 16.0
+   },
+   {
+      "Codigo": "UTT31",
+      "Nombre": "ProductoY",
+      "Descripcion": "Y",
+      "Precio": 20.0
+   }
+]
